@@ -1,0 +1,3 @@
+Godzilla, 5000
+Bigfoot, 300
+Yeti, 1000
