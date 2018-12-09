@@ -17,5 +17,4 @@ class Vampire {
         double toothSize;
 };
 
-
 #endif
